@@ -1,0 +1,22 @@
+﻿Build started 15/05/2015 11:42:32.
+     1>Project "C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\Asteroides_v3_0.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         Asteroides_v3_0.vcxproj -> C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\bin\Asteroides_v3_0.exe
+       PostBuildEvent:
+         xcopy /e /i /y "C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\..\..\..\export\vs\*.dll" "C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\bin"
+         :VCEnd
+         C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\..\..\..\export\vs\Assimp32.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\..\..\..\export\vs\fmodex.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\..\..\..\export\vs\fmodexL.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\..\..\..\export\vs\FreeImage.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\..\..\..\export\vs\FreeType-6.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\..\..\..\export\vs\glut32.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\..\..\..\export\vs\libeay32.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\..\..\..\export\vs\ssleay32.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\..\..\..\export\vs\Zlib.dll
+         9 archivo(s) copiado(s)
+     1>Done Building Project "C:\of_v0.8.0_vs_release\apps\myApps\Asteroides_v3_0\Asteroides_v3_0.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.18

@@ -1,0 +1,30 @@
+<asteroids>
+	<asteroid>
+		<point x="20" y="0" />
+		<point x="80" y="0" />
+		<point x="100" y="20" />
+		<point x="100" y="50" />
+		<point x="60" y="100" />
+		<point x="40" y="100" />
+		<point x="50" y="70" />
+		<point x="25" y="90" />
+		<point x="0" y="70" />
+		<point x="20" y="40" />
+		<point x="0" y="20" />
+		<point x="20" y="0" />
+	</asteroid>
+	<asteroid>
+		<point x="20" y="0" />
+		<point x="50" y="0" />
+		<point x="100" y="20" />
+		<point x="100" y="30" />
+		<point x="50" y="50" />
+		<point x="100" y="60" />
+		<point x="75" y="100" />
+		<point x="50" y="80" />
+		<point x="20" y="100" />
+		<point x="0" y="60" />
+		<point x="0" y="30" />
+		<point x="20" y="0" />
+	</asteroid>
+</asteroids>
